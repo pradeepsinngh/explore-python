@@ -3,7 +3,7 @@
 
 from sphinx.util.compat import Directive
 from docutils import nodes
-import sys
+import 
 
 
 class problem(nodes.Element):
